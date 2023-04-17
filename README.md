@@ -1,5 +1,4 @@
-# Training-Alexnet
-Implemented the AlexNet architecture in PyTorch for image classification
+# Finetuning object detection with TorchVision
 
 - Developed a custom object detection and instance segmentation model using Mask R-CNN and Faster R-CNN architectures, built on top of pre-trained CNN backbones such as ResNet-50 and MobileNetV2.
 - Used the PyTorch deep learning framework to train and evaluate the models on a custom dataset of images and annotations, achieving high accuracy and performance metrics.
