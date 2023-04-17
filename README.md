@@ -1,5 +1,8 @@
 # Finetuning object detection with TorchVision
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_lD3ZskhaGbonB1nsEneeaotIjoEhcEm?usp=sharing)
+
+
 - Developed a custom object detection and instance segmentation model using Mask R-CNN and Faster R-CNN architectures, built on top of pre-trained CNN backbones such as ResNet-50 and MobileNetV2.
 - Used the PyTorch deep learning framework to train and evaluate the models on a custom dataset of images and annotations, achieving high accuracy and performance metrics.
 - Applied techniques such as transfer learning, fine-tuning, and data augmentation to improve the performance of the models on the target task, and optimized the training process using various hyperparameters and loss functions.
